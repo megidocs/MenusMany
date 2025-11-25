@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     tools:context=".CircularListActivity">
 
-    <zeev.fraiman.choosefrommany.CircularListView
+    <com.example.menusmany.CircularListView
         android:id="@+id/circularListView"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
