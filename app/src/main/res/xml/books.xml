@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+    <book title="Ulysses" author="James Joyce" language="English" />
+    <book title="The Great Gatsby" author="F. Scott Fitzgerald" language="English" />
+    <book title="Nineteen Eighty-Four" author="George Orwell" language="English" />
+    <book title="Catch-22" author="Joseph Heller" language="English" />
+    <book title="To Kill a Mockingbird" author="Harper Lee" language="English" />
+    <book title="Brave New World" author="Aldous Huxley" language="English" />
+    <book title="Slaughterhouse-Five" author="Kurt Vonnegut" language="English" />
+    <book title="The Grapes of Wrath" author="John Steinbeck" language="English" />
+    <book title="Le Petit Prince" author="Antoine de Saint-Exupéry" language="French" />
+    <book title="L'Étranger" author="Albert Camus" language="French" />
+    <book title="La Peste" author="Albert Camus" language="French" />
+    <book title="In Search of Lost Time" author="Marcel Proust" language="French" />
+    <book title="The Lover" author="Marguerite Duras" language="French" />
+    <book title="L'Immoraliste" author="André Gide" language="French" />
+    <book title="Les Soleils des indépendances" author="Ahmadou Kourouma" language="French" />
+    <book title="The Trial" author="Franz Kafka" language="German" />
+    <book title="The Magic Mountain" author="Thomas Mann" language="German" />
+    <book title="Berlin Alexanderplatz" author="Alfred Döblin" language="German" />
+    <book title="The Tin Drum" author="Günter Grass" language="German" />
+    <book title="The Man Without Qualities" author="Robert Musil" language="German" />
+</books>

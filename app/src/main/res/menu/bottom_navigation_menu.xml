@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_nav_english"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="English" />
+
+    <item
+        android:id="@+id/bottom_nav_french"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="French" />
+
+    <item
+        android:id="@+id/bottom_nav_german"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        android:title="German" />
+
+</menu>

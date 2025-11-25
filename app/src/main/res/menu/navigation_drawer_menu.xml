@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_spinner_card"
+            android:title="Spinner + Card" />
+        <item
+            android:id="@+id/nav_autocomplete"
+            android:title="Autocomplete" />
+        <item
+            android:id="@+id/nav_language_filter"
+            android:title="Language Filter" />
+        <item
+            android:id="@+id/nav_toggle_group"
+            android:title="Toggle Group" />
+        <item
+            android:id="@+id/nav_chip_filter"
+            android:title="Chip Filter" />
+        <item
+            android:id="@+id/nav_radio_group"
+            android:title="Radio Group" />
+        <item
+            android:id="@+id/nav_bottom_navigation"
+            android:title="Bottom Navigation" />
+    </group>
+
+</menu>
